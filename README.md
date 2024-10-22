@@ -83,3 +83,13 @@ Some key insights from the analysis:
 - **ADR Trends**: Visualizes ADR over time for both canceled and non-canceled bookings.
 - **Booking Cancellations by Month**: Shows seasonal trends in cancellations.
 - **Country-wise Cancellations**: Displays the top countries contributing to hotel booking cancellations.
+
+## Conclusion
+Based on the analysis, several trends emerge:
+- **Resort hotels** experience fewer cancellations, which could be attributed to their appeal for longer leisure stays, as opposed to city hotels that might see more last-minute or business-related cancellations.
+- **Higher lead times** are generally linked to a lower cancellation rate, indicating that customers who plan their trips well in advance are more likely to complete their stay.
+- **Seasonal trends** suggest that pricing and cancellation policies should be adjusted during peak booking months to manage the higher volume of cancellations and optimize revenue.
+- **Country-specific cancellations** highlight the need for targeted strategies to reduce cancellation rates, especially for customers from top canceling regions.
+
+These insights can help hotel management refine their marketing strategies, adjust pricing, and implement better cancellation policies to reduce the number of cancellations and optimize revenue.
+
