@@ -10,6 +10,7 @@ This project focuses on analyzing hotel booking data to gain insights into custo
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Analysis Highlights](#analysis-highlights)
+- [Conclusion](#conclusion)
 
 ## Project Overview
 The goal of this project is to:
