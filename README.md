@@ -1,7 +1,3 @@
-Based on your project on **Hotel Booking Data Analysis**, here's a README file draft for your GitHub repository:
-
----
-
 # Hotel Booking Data Analysis
 
 This project focuses on analyzing hotel booking data to gain insights into customer behavior, booking cancellations, and pricing strategies. The data spans multiple years and includes key features like hotel type, lead time, customer demographics, booking status, and more.
