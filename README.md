@@ -58,11 +58,11 @@ To run the project locally, follow these steps:
 
 ## Project Structure
 ```
-├── data/                          # Contains dataset
+├── data/                           # Contains dataset
 ├── Hotel_Booking_Analysis.ipynb    # Main Jupyter Notebook for analysis
-├── README.md                      # Project description and setup instructions
-├── hotel.csv                      # Raw Data Set
-└── report.pdf                        # Redport file
+├── README.md                       # Project description and setup instructions
+├── hotel.csv                       # Raw Data Set
+└── report.pdf                      # Redport file
 ```
 
 ## Usage
