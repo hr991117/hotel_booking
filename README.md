@@ -61,8 +61,8 @@ To run the project locally, follow these steps:
 ├── data/                          # Contains dataset
 ├── Hotel_Booking_Analysis.ipynb    # Main Jupyter Notebook for analysis
 ├── README.md                      # Project description and setup instructions
-├── requirements.txt               # Python dependencies
-└── images/                        # Folder for saved plots and images
+├── hotel.csv                      # Raw Data Set
+└── report.pdf                        # Redport file
 ```
 
 ## Usage
